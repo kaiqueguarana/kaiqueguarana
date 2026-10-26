@@ -1,4 +1,14 @@
-## Hi there 👋
+# Olá! 👋 Eu sou o Kaique
+
+🎓 Estudante de Ciência da Computação na Estácio.
+
+💻 Focado em Desenvolvimento Backend.
+
+🐍 Tecnologias: Python, HTML e AWS.
+
+🚀 Atualmente aprendendo e desenvolvendo projetos práticos para evoluir minhas habilidades em programação.
+
+🎯 Objetivo: conquistar minha primeira oportunidade na área de tecnologia.
 
 <!--
 **kaiqueguarana/kaiqueguarana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
